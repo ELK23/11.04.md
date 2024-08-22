@@ -39,25 +39,15 @@
 
 ### Задание 3
 
-`Приведите ответ в свободной форме........`
+![image](https://github.com/user-attachments/assets/19aa2efb-2cdc-4832-a831-5fa661cf97a0)
+![image](https://github.com/user-attachments/assets/fe2dd5d5-802c-4c6e-b50d-a227d2ebc2c6)
+![image](https://github.com/user-attachments/assets/0095621d-21c0-47cd-8f60-99dd030b5113)
+![image](https://github.com/user-attachments/assets/bf4f071d-e10f-40e8-bcfb-5e67df7839f6)
+![image](https://github.com/user-attachments/assets/202c7591-72f3-4f2a-afb5-15840d285789)
+![image](https://github.com/user-attachments/assets/0f287560-281a-4434-9fbf-604e87c58e3f)
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
 
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
 
 ### Задание 4
 
